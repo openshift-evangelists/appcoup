@@ -2,7 +2,7 @@
 
 Demonstrates different application coupling options in Kubernetes.
 
-Read: https://blog.openshift.com/
+Read also: https://blog.openshift.com/kubernetes-application-coupling/
 
 
 ## The application
